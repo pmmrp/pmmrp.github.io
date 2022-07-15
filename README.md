@@ -3,7 +3,7 @@
 ### Changing perspectives
 Who you are, what you are, where you are, and what you will do - international communication standards between air traffic control and pilots ensure safe movement of both large and small aircraft at airports, and this approach can simplify decision making across all spheres of life. 
 
-Applying professional discretion to interpret trends and analyse research data and suggest or participate in research towards keeping clinical guidelines up to date is a paramount duty underpinning the ethos of practice to alleviate suffering and prolong life, recognising diversity and individual choices, and particularly aligning with identified top research priorities to establish an evidence base for the efficiacy of a suite of multi-modal complementary treatments across a range of conditions, rather than just trialling a series of drugs for a particular condition. 
+Applying professional discretion to interpret trends and analyse research data and suggest or participate in research towards keeping clinical guidelines up to date is a paramount duty underpinning the ethos of practice - to alleviate suffering and prolong life, recognising diversity and individual choices, and particularly aligning with identified top research priorities to establish an evidence base for the efficiacy of a suite of multi-modal complementary treatments across a range of conditions, rather than just trialling a series of drugs for a particular condition. 
 
 Implementing this approach alongside conventional acute care protocols can do no harm. 
 
