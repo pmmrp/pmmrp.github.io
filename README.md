@@ -7,11 +7,7 @@ Applying professional discretion to interpret trends and analyse research data a
 
 Implementing this approach alongside conventional acute care protocols can do no harm.
 
-[*physiotherapy research priorities*](https://www.jla.nihr.ac.uk/priority-setting-partnerships/physiotherapy/Physiotherapy-top-10-priorities.htm)
-
-[*nutritional screening and malnutrition research priorities*](https://www.jla.nihr.ac.uk/priority-setting-partnerships/nutritional-screening-and-malnutrition/top-10.htm)
-
-[*depression and anxiety disorders (DADS) research priorities*](https://www.jla.nihr.ac.uk/priority-setting-partnerships/depression/top-10-priorities/)
+*Top research priorities defined by the James Lind Alliance Priority Setting Partnerships (funded by the National Institute for Health and Care Research (NIHR) across the three areas of [physiotherapy](https://www.jla.nihr.ac.uk/priority-setting-partnerships/physiotherapy/Physiotherapy-top-10-priorities.htm), [nutrition/supplements](https://www.jla.nihr.ac.uk/priority-setting-partnerships/nutritional-screening-and-malnutrition/top-10.htm), and [depression and anxiety disorders (DADs)](https://www.jla.nihr.ac.uk/priority-setting-partnerships/depression/top-10-priorities/).*
 
 ### Integration of physical and mental healthcare services 
 NHS centres offer referrals to Allied Health Professions (AHP) services including dietitians, physiotherapists and psychologists - but only across a limited range of conditions.  In line with current directives from the World Health Organisation and national govenment policy on the need to integrate physical and mental healthcare services, NHS pilots report earlier and wider access to complementary therapeutic modalities will benefit service users, although there are minor issues to resolve including logistics of localities and improved inter-sector staff training (ref 9999, ref 9999, ref 9999).
