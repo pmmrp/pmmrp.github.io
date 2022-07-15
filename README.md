@@ -5,7 +5,11 @@
 
 Applying professional discretion to interpret trends and analyse research data and suggest or participate in research towards keeping clinical guidelines up to date is a paramount duty underpinning the ethos of practice - to alleviate suffering and prolong life, recognising diversity and individual choices, and particularly aligning with identified [top research priorities](https://pmmrp.github.io) to establish an evidence base for the efficacy of a suite of multi-modal complementary treatments across a range of conditions, rather than just trialling a series of drugs for a particular condition. 
 
-Implementing this approach alongside conventional acute care protocols can do no harm. 
+Implementing this approach alongside conventional acute care protocols can do no harm.
+
+[*physiotherapy research priorities*](https://www.jla.nihr.ac.uk/priority-setting-partnerships/physiotherapy/Physiotherapy-top-10-priorities.htm)
+[*nutritional screening and malnutrition research priorities*](https://www.jla.nihr.ac.uk/priority-setting-partnerships/nutritional-screening-and-malnutrition/top-10.htm)
+[*depression and anxiety disorders (DADS) top research priorities*](https://www.jla.nihr.ac.uk/priority-setting-partnerships/depression/top-10-priorities/)
 
 ### Integration of physical and mental healthcare services 
 NHS centres offer referrals to Allied Health Professions (AHP) services including dietitians, physiotherapists and psychologists - but only across a limited range of conditions.  In line with current directives from the World Health Organisation and national govenment policy on the need to integrate physical and mental healthcare services, NHS pilots report earlier and wider access to complementary therapeutic modalities will benefit service users, although there are minor issues to resolve including logistics of localities and improved inter-sector staff training (ref 9999, ref 9999, ref 9999).
