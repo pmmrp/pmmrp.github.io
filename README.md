@@ -8,7 +8,7 @@ Applying professional discretion to interpret trends and analyse research data a
 Implementing this approach alongside conventional acute care protocols can do no harm.
 
 *Some top research priorities identified by the James Lind Alliance Priority Setting Partnerships (funded by the National Institute for Health and Care Research (NIHR) across the three areas of [physiotherapy](https://www.jla.nihr.ac.uk/priority-setting-partnerships/physiotherapy/Physiotherapy-top-10-priorities.htm), [nutrition/supplements](https://www.jla.nihr.ac.uk/priority-setting-partnerships/nutritional-screening-and-malnutrition/top-10.htm), and [depression and anxiety disorders (DADs)](https://www.jla.nihr.ac.uk/priority-setting-partnerships/depression/top-10-priorities/), with an already robust [evidence base](https://www.pmmrp.github.io) demanding further study:*  
-- *When health problems are developing, at what point is physiotherapy most/least effective for improving patient results compared to no physiotherapy?* 
+- *When health problems are developing, at what point is physiotherapy most/least effective for improving patient results compared to no physiotherapy? Should physiotherapy be incorporated into certain patient bathing schedules?* 
 - *How can early intervention be initiated in vulnerable groups to help prevent malnutrition, and how useful are nutritional supplements?* 
 - *What are the most effective ways to prevent occurrence and recurrence of depression, and what are the best early interventions (treatments and therapies)?*
 
@@ -24,7 +24,7 @@ In order to ease the burden on NHS AHPs, a register of accredited complementary 
 
 ### The evidence base to inform participation, and details of the multi-modality treatment programme
 - [Nutrition support and micronutrient supplements from the NHS formulary](https://www.pmmrp.github.io)
-- [Physical therapies (active and passive physiotherapy, including aromatherapy, Pilates, proprioceptive foot reflexology, tai chi, yoga)](https://www.pmmrp.github.io)
+- [Physical therapies (active and passive physiotherapy, aromatherapy facials, hair and body conditioning, Pilates, proprioceptive foot reflexology, tai chi, yoga)](https://www.pmmrp.github.io)
 - [Resilience counselling (adapted from air force airmen and families resilience training programme)](https://www.pmmrp.github.io)
 
 [References list](https://www.pmmrp.github.io) 
