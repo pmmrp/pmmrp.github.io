@@ -3,7 +3,7 @@
 ### Changing perspectives
 "Who you are, what you are, where you are, and what you will do" - international communication standards between air traffic control and pilots ensure safe movement of both large and small aircraft at airports, and this approach can simplify decision making across all spheres of life. 
 
-Applying professional discretion to interpret trends and analyse research data and suggest or participate in research towards keeping clinical guidelines up to date is a paramount duty underpinning the ethos of practice - to alleviate suffering and prolong life, recognising diversity and individual choices, and particularly aligning with identified top research priorities to establish an evidence base for the efficacy of a suite of multi-modal complementary treatments across a range of conditions, rather than just trialling a series of drugs for a particular condition. 
+Applying professional discretion to interpret trends and analyse research data and suggest or participate in research towards keeping clinical guidelines up to date is a paramount duty underpinning the ethos of practice - to alleviate suffering and prolong life, recognising diversity and individual choices, and particularly aligning with identified [top research priorities](https://www.pmmrp.github.io) to establish an evidence base for the efficacy of a suite of multi-modal complementary treatments across a broad range of conditions, rather than just trialling a series of drugs for particular conditions. 
 
 Implementing this approach alongside conventional acute care protocols can do no harm.
 
@@ -19,8 +19,29 @@ Early access to nutrition support (including micronutrient supplements), physica
 ### Incorporation of complementary therapies into standard practice 
 In order to ease the burden on NHS AHPs, a register of accredited complementary therapists is available for direct referral by other healthcare professionals, including referrals from AHPs. It is proposed to assign NHS roles and permitted activities with consequent implications for funding and for updating the eletronic medical records system. Until this happens, triage to allied and complementary treatments must exhibit parity with standard methodologies in taking instructions and recording treatment details, in electronic format, and in such a way to avoid service users' interrogation by multiple service providers. 
 
-### The evidence base to inform participation
-Asdf
+### The evidence base to inform participation, and details of the multi-modality treatment programme
+- [Nutrition support and micronutrient supplements from the NHS formulary](https://www.pmmrp.github.io)
+- [Physical therapies (active and passive physiotherapy, including aromatherapy, Pilates, proprioceptive foot reflexology, tai chi, yoga)](https://www.pmmrp.github.io)
+- [Resilience counselling (adapted from air force airmen and families resilience training programme)](https://www.pmmrp.github.io)
+[References list](https://www.pmmrp.github.io) 
+
+### How to participate in this research project
+You can reply to the invitation sent to your secure NHS email address to confirm your interest in participation, and use the attached referral guidelines to identify any possible contra-indications to the complementary treatments before enrolling your patients. All complementary therapists are accreddited and will have appropriate insurance in place. You may offer a venue for treatments, and use your own booking system, if at all possible, alternatively this may be negotiated with other participating practitioners in your locality, via the research project's electronic booking system. Negotiations are in the pipeline regarding third sector or other funding to cover consultation fees for treatments that might be outwith the current remit of NHS prescribing protocols for particular conditions, as we have noted in place at some venues. 
+
+Details of any off-site treatments and advice given to your patients will be securely transmitted to you after the treatment, or to your referring AHP, to update the patient's medical record. Provisionally this will be via your secure NHS email address, or via your AHPs usual method of patient data capture. 
+
+For the purposes of the research study, only anonymised details will be stored on the research database, to which you will enjoy ongoing access if you so wish. No confidential or sensitive data will be retained.
+
+**Please note: No patients undergoing treatment for cancer will be accepted onto this programme.**
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/pmmrp/pmmrp.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -50,7 +71,7 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Jekyll Themes  (this page uses the Minimal theme)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmmrp/pmmrp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
