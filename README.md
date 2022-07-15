@@ -13,7 +13,7 @@ NHS centres offer referrals to Allied Health Professions (AHP) services includin
 Early access to nutrition support (including micronutrient supplements), physical therapies (active/passive), and resilience counselling to mitigate comorbid or standalone depression and anxiety disorders (DADs) will in addition to specific therapeutic benefits also extend patient support-networks and enable more professional feedback to inform collaborative clinical care pathway management for outpatients and for those in residential care (ref 9999). This move might prevent mild to moderate conditions degenerating to severe or even treatment resistant (ref 9999).
 
 ### Incorporation of complementary therapies into standard practice 
-
+In order to ease the burden on NHS AHPs, a register of accredited complementary therapists is available for direct referral by other healthcare professionals, including referrals from AHPs themselves. It is proposed to assign NHS roles and permitted activities with consequent implications for funding. Until this happens,  
 
 
 You can use the [editor on GitHub](https://github.com/pmmrp/pmmrp.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
