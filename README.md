@@ -11,6 +11,7 @@ Implementing this approach alongside conventional acute care protocols can do no
 
 ### Integration of physical and mental healthcare services 
 NHS centres offer referrals to Allied Health Professions (AHP) services including dietitians, physiotherapists and psychologists - but only across a limited range of conditions.  
+
 In line with current directives from the World Health Organisation, reflected in national govenment policy and precedents set in many EU states relating to the integration of physical and mental healthcare services, NHS pilots report earlier and wider access to complementary therapeutic modalities will benefit service users, although there are minor issues to resolve including logistics of localities and improved inter-sector staff training (ref 9999, ref 9999, ref 9999).
 
 Early access to nutrition support (including micronutrient supplements), physical therapies (active/passive), and resilience counselling to mitigate comorbid or standalone depression and anxiety disorders (DADs) will in addition to specific therapeutic benefits also extend patient support-networks and enable more professional feedback to inform collaborative clinical care pathway management for outpatients and for those in residential care (ref 9999). This move might prevent mild to moderate conditions degenerating to severe or even treatment resistant (ref 9999).
