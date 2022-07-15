@@ -5,7 +5,7 @@ Who you are, what you are, where you are, and what you will do - international c
 
 Applying professional discretion to interpret trends and analyse research data and suggest or participate in research towards keeping clinical guidelines up to date is a paramount duty underpinning the ethos of practice to alleviate suffering and prolong life, recognising diversity and individual choices, and particularly aligning with identified top research priorities to establish an evidence base for the efficiacy of a suite of multi-modal complementary treatments across a range of conditions, rather than just trialling a series of drugs for a particular condition. 
 
-Implementing this approach alongside conventional acute protocols can do no harm. Failing to, 
+Implementing this approach alongside conventional acute care protocols can do no harm. Failing to, 
 
 ### Asdf
 You can use the [editor on GitHub](https://github.com/pmmrp/pmmrp.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
