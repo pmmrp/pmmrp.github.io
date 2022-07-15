@@ -24,7 +24,7 @@ In order to ease the burden on NHS AHPs, a register of accredited complementary 
 
 ### The evidence base to inform participation, and details of the multi-modality treatment programme
 - [Nutrition support and micronutrient supplements from the NHS formulary](https://www.pmmrp.github.io)
-- [Physical therapies (active and passive physiotherapy, aromatherapy facials, hair and body conditioning, Pilates, proprioceptive foot reflexology, tai chi, yoga)](https://www.pmmrp.github.io)
+- [Physical therapies (active and passive physiotherapy, Pilates, proprioceptive foot reflexology, aromatherapy facials, hair and body conditioning, tai chi or yoga)](https://www.pmmrp.github.io)
 - [Resilience counselling (adapted from air force airmen and families resilience training programme)](https://www.pmmrp.github.io)
 
 [References list](https://www.pmmrp.github.io) 
