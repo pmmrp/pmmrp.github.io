@@ -28,6 +28,7 @@ In order to ease the burden on NHS AHPs, a register of accredited complementary 
 - [Resilience counselling (adapted from Air Force Airmen and Families Resilience Training Programme)](https://www.pmmrp.github.io)
 
  [Accreditation and standardisation of the triple approach](https://www.pmmrp.github.io) (college/university qualifications, psychosomatic focus, the enormous power of plants used in aromatherapy and the research task of quantifying this vs "common use" protocols of European herbal pharmaceuticals)
+ 
 [References list](https://www.pmmrp.github.io) 
 
 ### How to participate in this research project
