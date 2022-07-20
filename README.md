@@ -39,7 +39,7 @@ NICE and NHS formularies currently only include high-dose B-vitamins as part of 
 ### The evidence base to inform participation, and details of the multi-modality treatment programme
 - [Nutrition support and micronutrient supplements from the NHS formulary](https://www.pmmrp.github.io)
 - [Physical therapies (active and passive physiotherapy, Pilates, proprioceptive foot reflexology, aromatherapy facials, hair and body conditioning, tai chi or yoga)](https://www.pmmrp.github.io)
-- [Resilience counselling (adapted from Air Force Airmen and Families Resilience Training Programme)](https://www.pmmrp.github.io)
+- [Resilience counselling (adapted from Air Force Airmen and Families Resilience Training Programme)](https://www.rand.org/content/dam/rand/pubs/research_reports/RR100/RR106/RAND_RR106.pdf)
 
  [Accreditation and standardisation of the triple approach](https://www.pmmrp.github.io) (college/university qualifications, psychosomatic focus, the enormous power of plants used in aromatherapy and the research task of quantifying this vs "common use" protocols of European herbal pharmaceuticals, antimicrobial resistance, overprescribing)
  
