@@ -1,7 +1,7 @@
-## Personalised multi-modality recovery protocols to reduce hospital admissions
+## Widening access to personalised multi-modality recovery protocols to reduce hospital admissions
 
 ### Changing perspectives of health and healthcare services
-"Who you are, what you are, where you are, and what you will do" - the international communication standards between air traffic control and pilots ensure safe movement of both large and small aircraft at airports, and this approach can simplify decision making across all spheres of life. 
+"Who you are, what you are, where you are, and what you will do" - the international communication standards between air traffic control and pilots ensure safe movement of both large and small aircraft at airports, and this approach can simplify decision making for clinicians. 
 
 Applying professional discretion to interpret trends and analyse research data and suggest or participate in research towards keeping clinical guidelines up to date is a paramount duty underpinning the ethos of practice - to alleviate suffering and prolong life, recognising diversity and individual choices, and particularly aligning with identified [top research priorities](https://www.pmmrp.github.io) to establish an evidence base for the efficacy of a suite of multi-modal complementary treatments across a broad range of conditions, rather than just trialling a series of drugs for particular conditions or particular pharmaceutical companies. 
 
