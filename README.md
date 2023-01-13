@@ -1,4 +1,4 @@
-## Widening access to and standardising a triple approach personalised multi-modality recovery protocol for depression and anxiety disorders (DADs) to reduce hospital admissions and reduce prescription of psychotropic drugs - nutrition supplements, physio/physical activity, resilience counselling.
+## Widening access to and standardising a triple approach personalised multi-modality recovery protocol for depression and anxiety disorders (DADs) with or without comorbidities, towards reducing hospital admissions and reduce psychotropic drug trials, via application of nutrition supplements, physio/physical activity, and resilience counselling.
 
 ### Changing perspectives of health and healthcare services
 "Who you are, what you are, where you are, and what you will do" - the international communication standards between air traffic control and pilots ensure safe movement of both large and small aircraft at airports, and this approach can simplify decision making for clinicians relating to referrals for multi-modal recovery programmes.
